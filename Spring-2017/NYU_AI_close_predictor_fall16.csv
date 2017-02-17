@@ -1,0 +1,467 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,P_ID,P_email,AI_consent,H_consent,P_Big5_1,P_Big5_2,P_Big5_3,P_Big5_4,P_Big5_5,P_Big5_6,P_Big5_7,P_Big5_8,P_Big5_9,P_Big5_10,P_attachme,RELSTYLE_1,RELSTYLE_2,RELSTYLE_3,RELSTYLE_4,open_doc,Q53_First Click,Q53_Last Click,Q53_Page Submit,Q53_Click Count,open_doc,Q54_First Click,Q54_Last Click,Q54_Page Submit,Q54_Click Count,P_10movie,P_#right_1,P_IOS,P_Like,P_CLOSE,P_CLOSE1,P_ENJOY,P_INTER,P_KNOW,P_REC_1,P_PERSON_1,P_PERSON_2,P_PERSON_3,P_PERSON_4,P_PERSON_5,P_PERSON_6,P_PERSON_7,P_PERSON_8,P_PERSON_9,P_PERSON_10,Conf_AI_HI_1,Conf_H_AI_1,P_movie,P_#movie_1,PE_IOS,PE_Like,PE_CLOSE,PE_CLOSE1,PE_ENJOY,PE_INTER,PE_KNOW,PE_REC_1,PE_PERSON_1,PE_PERSON_2,PE_PERSON_3,PE_PERSON_4,PE_PERSON_5,PE_PERSON_6,PE_PERSON_7,PE_PERSON_8,PE_PERSON_9,PE_PERSON_10,P_conf_h_1,P_conf_AI_1,think_AI/H,P_year,P_gender,Q55,H_debrief,A_debrief,predict,human,script
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,Please enter your NYU Net ID number below.,Please enter your SONA email below.,"CONSENT TO PARTICIPATE IN RESEARCH
+
+How Artificial Intelligence Constructs Human Preferences Through a Chat Conversation
+
+ 
+
+Research in Collaboration with NYU Artificial Intelligence Research (NYUAIR)
+
+ 
+Introduction
+
+
+
+
+
+My name is Minah Jung. I am an assistant professor of marketing at New York University, the Leonard N. Stern School of Business.  I would like to invite you to take part in our research study that explores how people learn about preferences of others when having conversations with others in a chat room setting.
+
+ 
+ Purpose
+
+
+
+
+
+The purpose of this research study is to understand how artificial intelligence understands people’s preferences through a chat room.
+
+ 
+ Procedures
+
+
+
+
+
+In this study, you will be asked to communicate with artificial intelligence who will engage in chat conversations about your preferences in a chat room setting. If you agree to participate in this study, you will be asked to communicate with Artificial Intelligence about your preferences on cultural consumption (e.g., movies, music, and food) via an online chat room for about 20-30 minutes. After the chat, you will be asked to complete a short survey about your chat conversation and other demographic information. This research is in collaboration with the NYU Artificial Intelligence Research (NYUAIR).
+
+
+ 
+ Study time
+
+
+
+
+
+The total duration of this study is about 30 minutes.
+
+ 
+ Risk/Discomfort
+
+
+
+
+
+-There is minimal risk to you from taking part in this research. The only risk to you from participating is the possibility that some of the tasks may make you feel a bit uncomfortable. You may discontinue participation or decline to answer any questions at any time. 
+
+-Breach of confidentiality: As with all research, there is a chance that confidentiality could be compromised; however, we are taking precautions to minimize this risk.
+
+ 
+
+Benefits
+
+ 
+
+There are no direct benefits to you from this research.
+
+ 
+ Confidentiality
+
+
+
+
+
+Your study data will be handled as confidentially as possible. If results of this study are published or presented, individual names and other personally identifiable information will not be used.
+
+To minimize the risks to confidentiality, we will do the following:
+
+-               Your identity and data will not be linked.
+
+-               Your research records will be stored on password-protected office computers.
+
+-               Only I will have access to your study records.
+
+-               Your personal information may be given out if required by law. We will keep your study data as confidential as possible, unless it is certain information that we must report for legal or ethical reasons, such as abuse or intent to hurt yourself or others.
+
+
+
+Future use of study data
+
+ 
+
+The research data will be maintained for at least 3 years for possible use in future research by myself.  The same measures described above will be taken to protect confidentiality of this study data.
+
+ 
+ Compensation/Payment
+
+
+
+
+
+Your participation in this study is voluntary. Participants who complete this survey will receive $3.00 for completing it. If you are not able to complete the study (e.g., technical issues), you will still be paid $0.05. To verify completion, you must enter the code found at the end of this survey into the website. If you withdraw before the end of the study, your account will not be credited. There is no cost to participate. You have the right not to answer any question you prefer not to.
+
+ 
+ Rights
+
+Participation in research is completely voluntary.
+
+You have the right to decline to participate or to withdraw at any point in this study without penalty or loss of benefits to which you are otherwise entitled.
+
+ 
+ Questions
+
+
+
+
+
+If you have any questions or concerns about this study, you may contact Minah Jung at (212) 998-0574 or minah.jung@stern.nyu.edu.
+
+ 
+
+For questions about your rights as a research participant, you may contact the University Committee on Activities Involving Human Subjects, 665 Broadway, Suite 804, New York, NY 10012, 212-998-4808 or ask.humansubjects@nyu.edu.
+
+ 
+
+Consent
+
+ 
+
+If you agree to take part in the research and allow Minah Jung to continue use the data for her research, please select an appropriate choice below.  
+
+ 
+
+YOU MUST BE 18 YEARS OR OLDER TO COMPLETE THIS STUDY.","CONSENT TO PARTICIPATE IN RESEARCH
+
+How People Construct Preferences Through a Chat Conversation
+
+Introduction
+
+ 
+
+
+
+My name is Minah Jung. I am an assistant professor of marketing at New York University, the Leonard N. Stern School of Business.  I would like to invite you to take part in our research study that explores how people learn about preferences of others when having conversations with others in a chat room setting.
+
+ 
+ Purpose
+
+
+
+The purpose of this research study is to understand how artificial intelligence understands people’s preferences through a chat room.
+
+ 
+ Procedures
+
+
+If you agree to participate in this study, you will be asked to communicate with another person about your preferences on cultural consumption (e.g., movies, music, and food) via an online chat room for about 20-30 minutes. After the chat, you will be asked to complete a short survey about your chat conversation and other demographic information. 
+
+ 
+Study time
+
+
+
+The total duration of this study is about 30 minutes.
+
+ 
+ Risk/Discomfort
+
+
+
+-There is minimal risk to you from taking part in this research. The only risk to you from participating is the possibility that some of the tasks may make you feel a bit uncomfortable. You may discontinue participation or decline to answer any questions at any time. 
+
+-Breach of confidentiality: As with all research, there is a chance that confidentiality could be compromised; however, we are taking precautions to minimize this risk.
+
+ 
+
+Benefits
+
+There are no direct benefits to you from this research.
+
+ 
+ Confidentiality
+
+
+
+Your study data will be handled as confidentially as possible. If results of this study are published or presented, individual names and other personally identifiable information will not be used.
+
+To minimize the risks to confidentiality, we will do the following:
+
+-               Your identity and data will not be linked.
+
+-               Your research records will be stored on password-protected office computers.
+
+-               Only I will have access to your study records.
+
+-               Your personal information may be given out if required by law. We will keep your study data as confidential as possible, unless it is certain information that we must report for legal or ethical reasons, such as abuse or intent to hurt yourself or others.
+
+
+
+Future use of study data
+
+The research data will be maintained for at least 3 years for possible use in future research by myself.  The same measures described above will be taken to protect confidentiality of this study data.
+
+ 
+ Compensation/Payment
+
+
+
+Your participation in this study is voluntary. Participants who complete this survey will receive $3.00 for completing it. If you are not able to complete the study (e.g., technical issues), you will still be paid $0.05. To verify completion, you must enter the code found at the end of this survey into the website. If you withdraw before the end of the study, your account will not be credited. There is no cost to participate. You have the right not to answer any question you prefer not to.
+
+ 
+ Rights
+
+Participation in research is completely voluntary.
+
+You have the right to decline to participate or to withdraw at any point in this study without penalty or loss of benefits to which you are otherwise entitled.
+
+ 
+ Questions
+
+
+
+If you have any questions or concerns about this study, you may contact Minah Jung at (212) 998-0574 or minah.jung@stern.nyu.edu.
+
+ 
+
+For questions about your rights as a research participant, you may contact the University Committee on Activities Involving Human Subjects, 665 Broadway, Suite 804, New York, NY 10012, 212-998-4808 or ask.humansubjects@nyu.edu.
+
+ 
+
+Consent
+
+If you agree to take part in the research and allow Minah Jung to continue use the data for her research, please select an appropriate choice below.  
+
+ 
+
+YOU MUST BE 18 YEARS OR OLDER TO COMPLETE THIS STUDY.",TIPI - extroverted and enthusiastic?,TIPI - critical and quarrelsome?,TIPI - dependable and self-disciplined?,TIPI - anxious and easily upset?,TIPI - open to new experiences and complex?,TIPI - reserved and quiet?,TIPI - sympathetic and warm?,TIPI - disorganized and careless?,TIPI - calm and emotionally stable?,TIPI - conventional and uncreative?,"Following are four general relationship styles that people often report. Place a checkmark next to the
+letter corresponding to the style that best describes you or is closest to the way you are.",Now Please rate each of the relationship styles above to indicate how well or poorly each description corresponds to your general relationship style. - Style A. It is easy for me to become emotionally close to others. I am confortable depending on them and having them depend on me. I don't worry about being alone of having others not accept me.,"Now Please rate each of the relationship styles above to indicate how well or poorly each description corresponds to your general relationship style. - Style B. I am uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them. I worry that I will be hurt if I allow myself to become too close to others.","Now Please rate each of the relationship styles above to indicate how well or poorly each description corresponds to your general relationship style. - Style C. I want to be completely emotionally intimate with others, but I often find that others are reluctant to get as close as i would like. I am uncomfortable being without close relationships, but I sometimes worry that others don't value me as much as i value them.","Now Please rate each of the relationship styles above to indicate how well or poorly each description corresponds to your general relationship style. - Style D. I am comfortable without close emotional relationships. It is very important to me to feel independent and self-sufficient, and I prefer not to depend on others or have others depend on me.",Is the question document open on your computer,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Is the question document open on your computer,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Please carefully review the following 50 movies listed below and predict and select your chat partner's top 10 movies. Before you start choosing your chat partner's top ten movies, please scroll down the list of 50 movies to view all options.","Out of the 10 movies you've just chosen, how many movies do you think you guessed accurately? Two would be expected by chance. - Please indicate the number of your partner's  top movies that you guessed accurately",Please select the number that best describes your relationship with your chat partner.,How much do you think your partner likes you?,"Relative to all your other relationships (both same and opposite sex), how would your chat partner characterize his or her relationship with you?","Relative to what you know about other people's close relationships, how would your chat partner characterize his or her relationship with you?",How much do you think that your partner enjoyed getting to know you?,How much do you think that your partner would like to interact with you again?,How knowledgeable are you about your partner?,"If you offer a movie recommendation, how likely you think that your partner would watch the recommended movie in the near future? - Likelihood to watch the movie in percent",TIPI - extroverted and enthusiastic?,TIPI - critical and quarrelsome?,TIPI - dependable and self-disciplined?,TIPI - anxious and easily upset?,TIPI - open to new experiences and complex?,TIPI - reserved and quiet?,TIPI - sympathetic and warm?,TIPI - disorganized and careless?,TIPI - calm and emotionally stable?,TIPI - conventional and uncreative?,"In this study, all participants (including you) are told that they will be chatting with either artificial intelligence or another person.
+
+
+
+How confident are you that your chat partner thinks that he or she interacted with artificial intelligence or a human? Move the slider to indicate your level of confidence (-100 means absolutely artificial intelligence, 100 means absolutely a human). - Likelihood that my chat partner thinks that he or she interacted with artificial intelligence or a human","In this study, all participants (including you) are told that they will be chatting with either human or artificial intelligence.
+
+
+
+How confident are you that your chat partner thinks that he or she interacted with a human or artificial intelligence? Move the slider to indicate your level of confidence (-100 means absolutely a human, 100 means absolutely artificial intelligence). - Likelihood that my chat partner thinks that he or she interacted with artificial intelligence or a human","Please carefully review the following 50 movies listed below and select your top ten movies. Before start choosing your top ten, please scroll down the list of 50 movies to view all options.","Out of the 10 movies you've just chosen, how many movies do you think your partner guessed accurately? Two would be expected by chance. - Please indicate the number of your top movies your partner would guess accurately",Please select the number that best describes your relationship with your chat partner.,How much do you like your partner?,"Relative to all your other relationships (both same and opposite sex), how would you characterize your relationship with your chat partner?","Relative to what you know about other people's close relationships, how would you characterize your relationship with your chat partner?",How much did you enjoy getting to know your chat partner?,How much would you like to interact with your partner again?,How knowledgeable was your chat partner about you?,"If your chat partner offers a movie recommendation, how likely would you watch the recommended movie in the near future? - Likelihood to watch the movie in percent",TIPI - extroverted and enthusiastic?,TIPI - critical and quarrelsome?,TIPI - dependable and self-disciplined?,TIPI - anxious and easily upset?,TIPI - open to new experiences and complex?,TIPI - reserved and quiet?,TIPI - sympathetic and warm?,TIPI - disorganized and careless?,TIPI - calm and emotionally stable?,TIPI - conventional and uncreative?,"In this study, all participants (including you) are told that they will be paired with either artificial intelligence or another person.
+
+
+
+How confident are you that you interacted with artificial intelligence or a human? Move the slider to indicate your level of confidence (-100 means absolutely artificial intelligence, 100 means absolutely a human). - Likelihood that my chat partner was artificial intelligence or a human","In this study, all participants (including you) are told that they will be paired with either human or artificial intelligence.
+
+
+
+How confident are you that you interacted with a human or artificial intelligence? Move the slider to indicate your level of confidence (-100 means absolutely a human, 100 means absolutely artificial intelligence). - Likelihood that my chat partner was a human or artificial intelligence",Do you think your chat partner was a human or artificial intelligence?,What year were you born?,What is your gender?,"Most modern theories of decision making recognize the fact that decisions do not take place in a vacuum.  Individual preferences and knowledge, along with situational variables can greatly impact the decision process.  In order to facilitate our research on decision-making we are interested in knowing certain factors about you, the decision maker. Specifically, we are interested in whether you actually take the time to read the direction; if not, then some of our manipulations that rely on changes in the instructions will be ineffective. So, in order to demonstrate that you have read the instructions, please ignore the question about your occupation below. Instead, simply type astronomer to proceed to the next screen. Thank you very much. 
+ 
+
+What is your occupation?","Debriefing Form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+In the beginning of this study, we told you that you
+would be participating in a study about understanding how human preferences are
+constructed and communicated and that you would be communicating with a person
+who tries to understand your preferences by communicating with you. Our research
+actually focuses on how
+people perceive human vs. non-human interaction and their experience non-human
+interactions with non-human entities (e.g., A.I.).  Although there has been a rapid increase in
+adoption of A.I. in our daily lives, there is little research on how people
+perceive their interactions with A.I. and their experience relative to their
+interactions with humans.  In this study, we attempt to
+better understand the underlying psychology in human vs. non-human
+interactions.  
+
+ 
+
+To
+try and obtain unbiased or natural
+reactions, we told you that your partner is a person who tries to understand
+your preferences even though you interacted with an experimenter.  Unlike your case, some participants in this
+study were told that they would be interacting with A.I. instead of a
+person.  
+
+ 
+
+This
+was necessary for us to better
+understand how people’s belief about the ability of A.I. vs. human in accessing
+their preferences. By telling you
+that your partner was an experimenter, we could not have made reliable
+inferences.  Without telling you that
+your partner was an experimenter, we were able to set up a well
+counter-balanced study we can analyze and infer the results concretely. We apologize for misleading you, but we believe this was the only way to examine the processes
+that are the object of our research. In designing this study, we took care to minimize any possible risks or discomforts
+that might be related to the deception.
+
+ 
+
+Now that you
+understand the true nature of our study, you have
+the chance to refuse the use of the data we collected from you
+for research purposes. You are free to ask us not to use your data in our study analysis. If you
+decline to let us use your data, you
+will still keep your payment
+just as you would if we use your data
+in our analysis. This is entirely
+voluntary, but
+we hope to analyze as much
+data as possible to better
+understand the processes by which
+status hierarchies develop in groups.
+
+ 
+
+Because this experiment is ongoing, we
+request that you not share the true nature and purpose of this
+experiment with others who might potentially participate in our study.
+
+ 
+
+If you have any questions or concerns
+about this study, you may contact Minah Jung at (212) 998-0510 or minah.jung@stern.nyu.edu.
+
+ 
+
+For questions about your rights as a research
+participant, you may contact the University Committee on Activities Involving
+Human Subjects, 665 Broadway, Suite 804, New York, NY 10012, 212-998-4808 or ask.humansubjects@nyu.edu.
+
+ 
+
+You
+may
+keep this debriefing form for your future reference. Thank you again
+for your participation in our research!","Debriefing Form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the beginning of this study, we told you that you
+would be participating in a study about understanding how artificial
+intelligence constructs human preferences and that you would be communicating
+with artificial intelligence (A.I.) in our study. Our research actually focuses on how people perceive human vs.
+non-human interaction and their experience non-human interactions with
+non-human entities (e.g., A.I.).  Although
+there has been a rapid increase in adoption of A.I. in our daily lives, there
+is little research on how people perceive their interactions with A.I. and
+their experience relative to their interactions with humans. In this study,
+we attempt to better understand the underlying psychology in human vs.
+non-human interactions.  
+
+ 
+
+To
+try and obtain unbiased or natural
+reactions, we told you that your partner is a person who tries to understand
+your preferences even though you interacted with an experimenter.  Unlike your case, some participants in this
+study were told that they would be interacting with A.I. instead of a
+person.  
+
+ 
+
+This
+was necessary for us to better
+understand how people’s belief about the ability of A.I. vs. human in accessing
+their preferences. By telling you
+that your partner was an experimenter, we could not have made reliable
+inferences.  Without telling you that
+your partner was an experimenter, we were able to set up a well
+counter-balanced study we can analyze and infer the results concretely. We apologize for misleading you, but we believe this was the only way to examine the processes
+that are the object of our research. In designing this study, we took care to minimize any possible risks or discomforts
+that might be related to the deception.
+
+ 
+
+Now that you
+understand the true nature of our study, you have
+the chance to refuse the use of the data we collected from you
+for research purposes. You are free to ask us not to use your data in our study analysis. If you
+decline to let us use your data, you
+will still keep your payment
+just as you would if we use your data
+in our analysis. This is entirely
+voluntary, but
+we hope to analyze as much
+data as possible to better
+understand the processes by which
+status hierarchies develop in groups.
+
+ 
+
+Because this experiment is ongoing, we
+request that you not share the true nature and purpose of this
+experiment with others who might potentially participate in our study.
+
+ 
+
+If you have any questions or concerns
+about this study, you may contact Minah Jung at (212) 998-0574 or minah.jung@stern.nyu.edu.
+
+ 
+
+For questions about your rights as a research
+participant, you may contact the University Committee on Activities Involving
+Human Subjects, 665 Broadway, Suite 804, New York, NY 10012, 212-998-4808 or ask.humansubjects@nyu.edu.
+
+ 
+
+You
+may
+keep this debriefing form for your future reference. Thank you again
+for your participation in our research!",predict,human,script
+"{""ImportId"":""startDate""}","{""ImportId"":""endDate""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID17_TEXT""}","{""ImportId"":""QID91_TEXT""}","{""ImportId"":""QID47""}","{""ImportId"":""QID50""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID1_5""}","{""ImportId"":""QID1_6""}","{""ImportId"":""QID1_7""}","{""ImportId"":""QID1_8""}","{""ImportId"":""QID1_9""}","{""ImportId"":""QID1_10""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_1""}","{""ImportId"":""QID55_2""}","{""ImportId"":""QID55_3""}","{""ImportId"":""QID55_4""}","{""ImportId"":""QID56""}","{""ImportId"":""QID85_FIRST_CLICK""}","{""ImportId"":""QID85_LAST_CLICK""}","{""ImportId"":""QID85_PAGE_SUBMIT""}","{""ImportId"":""QID85_CLICK_COUNT""}","{""ImportId"":""QID62""}","{""ImportId"":""QID86_FIRST_CLICK""}","{""ImportId"":""QID86_LAST_CLICK""}","{""ImportId"":""QID86_PAGE_SUBMIT""}","{""ImportId"":""QID86_CLICK_COUNT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID58""}","{""ImportId"":""QID76""}","{""ImportId"":""QID57""}","{""ImportId"":""QID60""}","{""ImportId"":""QID37""}","{""ImportId"":""QID53""}","{""ImportId"":""QID29""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID32_4""}","{""ImportId"":""QID32_5""}","{""ImportId"":""QID32_6""}","{""ImportId"":""QID32_7""}","{""ImportId"":""QID32_8""}","{""ImportId"":""QID32_9""}","{""ImportId"":""QID32_10""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID36_1""}","{""ImportId"":""QID20""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID64""}","{""ImportId"":""QID77""}","{""ImportId"":""QID65""}","{""ImportId"":""QID66""}","{""ImportId"":""QID67""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69""}","{""ImportId"":""QID70_1""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID71_2""}","{""ImportId"":""QID71_3""}","{""ImportId"":""QID71_4""}","{""ImportId"":""QID71_5""}","{""ImportId"":""QID71_6""}","{""ImportId"":""QID71_7""}","{""ImportId"":""QID71_8""}","{""ImportId"":""QID71_9""}","{""ImportId"":""QID71_10""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID24""}","{""ImportId"":""QID19""}","{""ImportId"":""QID11""}","{""ImportId"":""QID90_TEXT""}","{""ImportId"":""QID22""}","{""ImportId"":""QID51""}","{""ImportId"":""predict""}","{""ImportId"":""human""}","{""ImportId"":""script""}"
+12/5/2016 8:11,12/5/2016 9:20,IP Address,128.122.181.126,100,4133,TRUE,12/5/2016 9:20,R_2nloNLcd2Grky8Z,,,,,40.73170471,-73.9885025,anonymous,zl1030,zl1030@nyu.edu,I AGREE TO PARTICIPATE and CONSENT Minah Jung to use the data for her research. ,,2,5,2,5,7. Strongly Agree,7. Strongly Agree,7. Strongly Agree,2,3,2,"B. I am uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them. I worry that I will be hurt if I allow myself to become too close to others.",4. Neutral/Mixed,5,4. Neutral/Mixed,2,Yes,0.275,282.084,1969.292,7,,,,,,"Spirited Away,Boyhood,The Dark Knight,The Godfather,Monsters Inc,The Grand Budapest Hotel,Sleepless in Seattle,The Notebook,No Strings Attached,Inception",5,5,7. Very much,7. Very close,7. Very close,6,6,6,50,Strongly Agree,Neither Agree nor Disagree,Somewhat Disagree,Somewhat Agree,Agree,Strongly Disagree,Agree,Somewhat Agree,Agree,Disagree,,-85,,,,,,,,,,,,,,,,,,,,,,,Human,1996,Male,Astronomer,,I have read this debriefing form and I AGREE to allow the use of my data for research purposes.,1,0,close
+12/5/2016 9:51,12/5/2016 10:08,IP Address,128.122.181.126,100,1020,TRUE,12/5/2016 10:08,R_6PRQxcGTBwbJZat,,,,,40.73170471,-73.9885025,anonymous,tk1616,tk1616@nyu.edu,,I AGREE TO PARTICIPATE and CONSENT Minah Jung to use the data for her research. ,4.Neither Agree nor Disagree,5,7. Strongly Agree,5,4.Neither Agree nor Disagree,5,5,2,5,4.Neither Agree nor Disagree,"C. I want to be completely emotionally intimate with others, but I often find that others are reluctant to get as close as i would like. I am uncomfortable being without close relationships, but I sometimes worry that others don't value me as much as i value them.",3,5,6,4. Neutral/Mixed,Yes,5.771,75.001,318.106,3,,,,,,"  Argo  ,The Interstellar,The Dark Knight,The Silence of the Lambs,The Godfather,The Lord of the Rings ,The Grand Budapest Hotel,Taken,Inception,Goodwill Hunting",0,1,1. Not at all,1. Not close at all,1. Not close at all,1. Not at all,1. Not at all,1. Not at all knowledgeable,1,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,Neither Agree nor Disagree,,-1,,,,,,,,,,,,,,,,,,,,,,,Artificial Intelligence,1996,Female,astronomer,I DO NOT AGREE TO allow the use of my data for research purposes,,1,1,close
+12/5/2016 11:28,12/5/2016 11:59,IP Address,128.122.181.126,100,1841,TRUE,12/5/2016 11:59,R_4O2UpWfyqQAgaYl,,,,,40.73170471,-73.9885025,anonymous,tyh252,tyh252@nyu.edu,I AGREE TO PARTICIPATE and CONSENT Minah Jung to use the data for her research. ,,5,3,7. Strongly Agree,3,7. Strongly Agree,5,4.Neither Agree nor Disagree,1. Strongly Disagree,5,2,"B. I am uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them. I worry that I will be hurt if I allow myself to become too close to others.",2,7. Agree Strongly,6,3,Yes,1.336,1169.113,1261.826,9,,,,,,"The Interstellar,The Hunger Games,The Dark Knight,Horrible Bosses,The Hangover,Star Trek: Into Darkness,The Lord of the Rings ,Sleepless in Seattle,Taken,Inception",2,4,3,3,3,4,4,4,29,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Disagree,Agree,Somewhat Disagree,Neither Agree nor Disagree,Disagree,Agree,Disagree,89,,,,,,,,,,,,,,,,,,,,,,,,Artificial Intelligence,1995,Female,Astronomer,,I have read this debriefing form and I AGREE to allow the use of my data for research purposes.,1,0,close
+12/5/2016 9:44,12/5/2016 9:46,IP Address,128.122.181.126,18,175,FALSE,12/5/2016 13:47,R_73qnRhrAZg4w3wV,,,,,,,anonymous,test,test,,I AGREE TO PARTICIPATE and CONSENT Minah Jung to use the data for her research. ,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,4.Neither Agree nor Disagree,"D. I am comfortable without close emotional relationships. It is very important to me to feel independent and self-sufficient, and I prefer not to depend on others or have others depend on me.",4. Neutral/Mixed,4. Neutral/Mixed,4. Neutral/Mixed,4. Neutral/Mixed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,close
+12/5/2016 10:18,12/5/2016 11:28,IP Address,128.122.181.126,35,4191,FALSE,12/5/2016 15:28,R_bvIr8uSN9Q8EhA9,,,,,,,anonymous,mg4844,mg4844@stern.nyu.edu,,I AGREE TO PARTICIPATE and CONSENT Minah Jung to use the data for her research. ,5,4.Neither Agree nor Disagree,6,3,6,5,5,2,6,2,"D. I am comfortable without close emotional relationships. It is very important to me to feel independent and self-sufficient, and I prefer not to depend on others or have others depend on me.",3,2,5,6,Yes,5.028,51.892,1129.855,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,close
+12/6/2016 7:55,12/6/2016 7:56,IP Address,128.122.181.115,7,23,FALSE,12/6/2016 11:56,R_3dtzJVPNwIiUgol,,,,,,,anonymous,kjd324,kjd324@nyu.edu,I AGREE TO PARTICIPATE and CONSENT Minah Jung to use the data for her research. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,close
